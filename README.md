@@ -27,8 +27,10 @@ Leaflow 多账号自动签到脚本，支持 Telegram 通知和 GitHub Actions �
 https://leaflow.net/workspaces
 
 <img width="2013" height="359" alt="CleanShot 2026-01-01 at 10 35 19" src="https://github.com/user-attachments/assets/702e10d8-4357-4fe8-bc29-5a446d167a0c" />
+<img width="773" height="583" alt="CleanShot 2026-01-01 at 10 40 05" src="https://github.com/user-attachments/assets/e308af8e-0806-4dca-9bc2-dd1bbf697537" />
 
-<img width="790" height="601" alt="CleanShot 2026-01-01 at 10 36 52" src="https://github.com/user-attachments/assets/36f85598-656b-4cc0-ac2c-75838faa19a4" />
+<img width="789" height="594" alt="CleanShot 2026-01-01 at 10 44 10" src="https://github.com/user-attachments/assets/99279734-8105-42b5-9b33-4d4c40321c8d" />
+
 
 
 #### 配置账号信息
@@ -87,6 +89,7 @@ GPL 3.0
 * 禁止新建项目将代码复制到自己仓库中用做商业行为，违者必究
 * 用于商业行为的任何分支必须完整保留本项目说明，违者必究
 * 请遵守当地法律法规,禁止滥用做公共代理行为
+
 
 
 
